@@ -237,6 +237,7 @@ footer a {
   .novitaH2 {
     background-color: #a3a3a3;
   }
-  .inputMail {
+  input {
+    width: 60%;
   }
 }
