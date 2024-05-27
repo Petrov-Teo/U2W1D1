@@ -215,6 +215,9 @@ footer a {
   body {
     line-height: 1.6;
   }
+  .novitaH2 {
+    background-color: #a3a3a3;
+  }
 }
 @media screen and (min-width: 576px) {
   h1 {
@@ -233,6 +236,7 @@ footer a {
   }
   .novitaH2 {
     background-color: #a3a3a3;
-    display: block;
+  }
+  .inputMail {
   }
 }
