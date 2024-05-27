@@ -213,6 +213,26 @@ footer a {
     margin-left: 0;
   }
   body {
-    padding: 15px 0px;
+    line-height: 1.6;
+  }
+}
+@media screen and (min-width: 576px) {
+  h1 {
+    font-size: 4.4rem;
+    font-weight: bold;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.7em;
+    line-height: 1.2;
+  }
+  h2 {
+    font-size: 19px;
+    font-weight: bold;
+  }
+  table {
+    margin-left: 25%;
+  }
+  .novitaH2 {
+    background-color: #a3a3a3;
+    display: block;
   }
 }
